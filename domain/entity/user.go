@@ -1,7 +1,7 @@
 package entity
 
 import (
-	"food-app/infrastructure/security"
+	"grpc-sample/infrastructure/security"
 	"html"
 	"strings"
 	"time"
